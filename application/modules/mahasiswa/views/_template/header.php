@@ -21,7 +21,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <link rel="stylesheet" href="<?php echo base_url("assets/plugins/picdate/themes/default.time.css"); ?>">
   <link rel="stylesheet" href="<?php echo base_url("assets/plugins/bootstrap-checkbox/awesome-bootstrap-checkbox.min.css"); ?>">
   <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
-  <link rel="shortcut icon" type="image/png" href="<?php echo base_url("assets/img/logo.png"); ?>"/>
+  <link rel="shortcut icon" type="image/png" href="<?php echo base_url("assets/img/logologo1.png"); ?>"/>
   <style>
      * { font-family: 'PT Sans Narrow', sans-serif; }
     a.link { color:blue; }

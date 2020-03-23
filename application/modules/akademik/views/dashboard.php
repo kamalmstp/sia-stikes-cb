@@ -92,8 +92,8 @@
 		<div class="callout bg-silver">
 		    <h4 class="text-primary"> SIAKAD Helpdesk <i class="ion ion-help"></i></h4>
               <blockquote>
-                <p>0856-9809-9898 / 0856-9897-9790</p>
-                <small>Adi Suputra, M.Kom.</small>
+                <!-- <p>0856-9809-9898 / 0856-9897-9790</p>
+                <small>Adi Suputra, M.Kom.</small> -->
               </blockquote>
 		</div>
 	</div>

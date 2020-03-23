@@ -174,7 +174,7 @@
       </table>
             <table style="padding-top: 10px; width: 50%; float: left; border: none;">
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: left; font-weight: normal;">
                   <p><small>
                     <strong><i>NB :</i></strong><br>Kartu Hasil Studi ini dicetak dengan layanan sistem dan, dinyatakan sah apabila sudah ditanda tangani oleh Ketua Program Studi dan dicap stempel STIE Pertiba di Bagian Akademik.
@@ -184,11 +184,11 @@
            </table>
             <table style="padding-top: 10px; width: 50%; float: right; border: none;">
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: center; font-weight: normal;">Pangkal Pinang, <?php echo tgl_indo(date('Y-m-d')); ?></td> 
               </tr>
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: center; font-weight: bold;">Ketua Program Studi</td> 
               </tr>
               <tr style="height: 30px;"></tr>

@@ -56,7 +56,7 @@
       	</div>
     	</form>
     	<div class="col s12 box-footer">
-    		<p>&copy; 2016 STIE Pertiba Pangkalpinang</p>
+    		<p>&copy; 2020 STIKES Cahaya Bangsas</p>
     		<p>Versi 1.0 Beta</p>
     	</div>
   	</div>

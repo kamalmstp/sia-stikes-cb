@@ -12,28 +12,28 @@ class Login extends CI_Controller
 	public function index()
 	{
 		$data = array(
-			'title' => 'Sistem Informasi Akademik - STIE Pertiba Pangkalpinang', 
+			'title' => 'Sistem Informasi Akademik - STIKES Cahaya Bangsa', 
 		);
 
         $this->form_validation->set_rules('npm', 'NPM', 'trim|required');
         $this->form_validation->set_rules('password', 'Password', 'trim|required');
-        $this->form_validation->set_rules('captcha', 'Captcha', 'required|callback_validate_captcha');
+        // $this->form_validation->set_rules('captcha', 'Captcha', 'required|callback_validate_captcha');
 
-		$values = array(
-			'word' => '', 
-			'word_length' => 4, 
-			'img_path' => './assets/img/captcha/',   
-			'img_url' => base_url() .'assets/img/captcha/',
-			'font_path' => FCPATH . 'system/fonts/texb.ttf',
-			'img_width' => '120',  
-			'img_height' => 50,  
-			'expiration' => 3600  
-		);
-		$data['captcha'] = create_captcha($values);
+		// $values = array(
+		// 	'word' => '', 
+		// 	'word_length' => 4, 
+		// 	'img_path' => './assets/img/captcha/',   
+		// 	'img_url' => base_url() .'assets/img/captcha/',
+		// 	'font_path' => FCPATH . 'system/fonts/texb.ttf',
+		// 	'img_width' => '120',  
+		// 	'img_height' => 50,  
+		// 	'expiration' => 3600  
+		// );
+		// $data['captcha'] = create_captcha($values);
 
         if ($this->form_validation->run() == FALSE)
         {
-		 	$this->session->set_userdata( array('captcha' => $data['captcha'], 'image' => $data['captcha']['filename'] ) );
+		 	// $tshis->session->set_userdata( array('captcha' => $data['captcha'], 'image' => $data['captcha']['filename'] ) );
 
             $this->load->view('login-mahasiswa', $data);
         } 

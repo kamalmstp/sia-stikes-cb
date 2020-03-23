@@ -160,7 +160,7 @@
       </table>
             <table style="padding-top: 10px; width: 50%; float: left; border: none;">
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: left; font-weight: normal;">
 
                  </td> 
@@ -168,11 +168,11 @@
            </table>
             <table style="padding-top: 10px; width: 50%; float: right; border: none;">
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: center; font-weight: normal;">Pangkalpinang, <?php echo tgl_indo(date('Y-m-d')); ?></td> 
               </tr>
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: center; font-weight: bold;">Ketua Program Studi</td> 
               </tr>
               <tr style="height: 50px;"></tr>

@@ -10,7 +10,7 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		$data = array(
-			'title' => 'Sistem Informasi Akademik - STIE Pertiba Pangkalpinang', 
+			'title' => 'Sistem Informasi Akademik - STIKES Cahaya Bangsa', 
 		);
 		$this->load->view('main-portal', $data);	
 	}

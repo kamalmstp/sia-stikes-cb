@@ -129,7 +129,7 @@ class Mstudent extends CI_Model
 		$account = array(
 			'account_student_id' => $student_id,
 			'email' => '',
-			'password' => password_hash($this->input->post('birts'), PASSWORD_DEFAULT),
+			'password' => password_hash($this->input->post('npm'), PASSWORD_DEFAULT),
 			'forgot_key' => 0
 		);
 		$this->db->insert('students_accounts', $account);

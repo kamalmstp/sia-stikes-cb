@@ -88,7 +88,7 @@ $this->load->view('header', $this->data);
         </div>
 
         <div class="col s12 box-footer">
-            <p>&copy; 2017 STIE Pertiba Pangkalpinang</p>
+            <p>&copy; 2017 STIKES Cahaya Bangsa</p>
             <p>Versi 1.0 Beta</p>
         </div>
 <?php  

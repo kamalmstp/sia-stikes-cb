@@ -24,7 +24,7 @@ class Main extends Akademik {
 		);
 
 		$this->template->view('dashboard', $this->data);
-	}
+	}	
 
 
 	public function getchart()

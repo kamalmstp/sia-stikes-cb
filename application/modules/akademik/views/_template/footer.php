@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <b>Versi</b> <?php echo MODULE_MAHASISWA; ?>
           </div>
          <div class="container text-center">
-            <small>Hak Cipta &copy; 2016 - <?php echo date('Y'); ?> <a href="">IT Division</a> STIE Pertiba Pangkalpinang. All rights
+            <small>Hak Cipta &copy; 2020 - <?php echo date('Y'); ?> <a href="">IT Division</a> STIKES Cahaya Bangsa. All rights
                reserved.<small>
          </div>
       </footer>

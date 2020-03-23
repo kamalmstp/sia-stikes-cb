@@ -155,11 +155,11 @@
       </table>
             <table style="padding-top: 10px; width: 50%; float: right; border: none;">
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: center; font-weight: normal;">Selasa, 34 Oktober 1978</td> 
               </tr>
               <tr>
-                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIE Pertiba Pangkalpinang</td> -->
+                 <!-- <td style="width: 50%; text-align: center; font-weight: bold;">Kepala Bagian SIM<br>STIKES Cahaya Bangsa</td> -->
                  <td style="width: 50%; text-align: center; font-weight: bold;">Ketua Program Studi<br>Teknik Informatika</td> 
               </tr>
               <tr style="height: 20px;"></tr>

@@ -16,7 +16,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <link rel="stylesheet" href="<?php echo base_url("assets/dist/AdminLTE.min.css"); ?>">
   <link rel="stylesheet" href="<?php echo base_url("assets/dist/skins/_all-skins.min.css"); ?>">
   <link rel="stylesheet" href="<?php echo base_url("assets/dist/animate.css"); ?>">
-  <link rel="shortcut icon" type="image/png" href="<?php echo base_url("assets/img/logo.png"); ?>"/>
+  <link rel="shortcut icon" type="image/png" href="<?php echo base_url("assets/img/logologo1.png"); ?>"/>
   <style>
     .logo-head { margin-left: 20px; }
     .box-login { padding-bottom: 20px; }
@@ -36,7 +36,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <div class="container">
       <section class="content" style="margin-top: 15%;">
            <div class="text-center">
-             <img src="<?php echo base_url("assets/img/logo_mahasiswa.png"); ?>" class="img" alt="logo siakad">
+             <img src="<?php echo base_url("assets/img/logologin2.png"); ?>" class="img" alt="logo siakad">
            </div>
         <div class="col-md-4 col-md-offset-4 col-sm-5 col-xs-12 box-login animated <?php echo ($this->session->flashdata('alert')) ? 'shake' : 'fadeIn'; ?>" style="background: white; border-radius: 10px; border-top:3px solid #F39C12; margin-top: 20px;">
 <?php  
@@ -61,7 +61,7 @@ echo form_open(current_url(). '?from_url='.$this->input->get('from_url'));
                      <small class="lbl"> Tampilkan Password</small>
                   </label>
               </div>
-              <div class="form-group col-md-12">
+              <!-- <div class="form-group col-md-12">
                 <label for="password">Captcha :</label>
                 <div class="captcha">
                   <p style="white-space: 30px;" id="text-captcha"><?php echo $captcha['word']; ?></p>
@@ -69,7 +69,7 @@ echo form_open(current_url(). '?from_url='.$this->input->get('from_url'));
                 </div>
                 <input type="text" name="captcha" class="form-control" value="" placeholder="Masukkan kode diatas">
                 <?php echo form_error('captcha', '<small class="text-red">', '</small>'); ?>
-              </div>
+              </div> -->
               <div class="form-group col-md-12">
                   <a href="<?php echo site_url('welcome') ?>" class="btn btn-warning"><i class="fa fa-undo"></i> Kembali</a>
                   <button type="submit" class="btn btn-warning pull-right">Masuk</button><!-- 
@@ -83,9 +83,9 @@ echo form_close();
 ?>
         </div>
         <div class="col-md-4 col-md-offset-4 col-sm-5 col-xs-12">
-          <div class="lockscreen-footer text-center">
-              <small>Hak Cipta &copy; 2016 - <?php echo date('Y'); ?> <a href="">IT Division</a> STIE Pertiba Pangkalpinang. All rights reserved.</small>
-          </div>
+            <div class="lockscreen-footer text-center">
+               <small>Hak Cipta &copy; 2020 - <?php echo date('Y'); ?> <a href="">IT Division</a> STIKES Cahaya Bangsa. <br> All rights reserved.<small>
+            </div>
         </div>
       </section>     
   </div>
